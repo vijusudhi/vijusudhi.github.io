@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Processing for Requirements Formalization: How to Derive New Approaches?"
 collection: publications
-category: chapter  # chapter, article, conference
+category: chapter
 permalink: /publication/2023-05-05-nlp-for-req-form
 excerpt: 'We present and discuss principal ideas and state-of-the-art methodologies from the field of NLP in order to guide the readers on how to derive new requirements formalization approaches according to their specific use case and needs. We demonstrate our approaches on two industrial use cases from the automotive and railway domains and show that the use of current pre-trained NLP models requires less effort to adapt to a specific use case.'
 date: 2023-05-05
