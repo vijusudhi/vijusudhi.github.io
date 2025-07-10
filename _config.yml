@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Viju Sudhi"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "(he/him)"  
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Dresden, Germany"
   employer         : "Bielefeld University"
   uri              : # URL
