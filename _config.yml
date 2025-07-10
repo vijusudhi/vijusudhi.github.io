@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : # "Viju Sudhi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Viju Sudhi"
 description              : &description "Research Associate / PhD Student at Semantic Computing Group, Bielefeld University | Master's graduate from Otto von Guericke University, Magdeburg"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "IMG_7038-EDIT.jpg"
   # name             : "Viju Sudhi"
-  pronouns         : "(he/him)"  
+  # pronouns         : "(he/him)"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Dresden, Germany"
   employer         : "Bielefeld University"
