@@ -5,7 +5,7 @@ category: chapter
 permalink: /publication/2023-05-05-nlp-for-req-form
 excerpt: 'We present and discuss principal ideas and state-of-the-art methodologies from the field of NLP in order to guide the readers on how to derive new requirements formalization approaches according to their specific use case and needs. We demonstrate our approaches on two industrial use cases from the automotive and railway domains and show that the use of current pre-trained NLP models requires less effort to adapt to a specific use case.'
 date: 2023-05-05
-venue: 'Concurrency, Specification and Programming: Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P'21), Berlin, Germany'
+venue: "Concurrency, Specification and Programming: Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P'21), Berlin, Germany"
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-26651-5_1'
 citation: "Sudhi, V., Kutty, L., Gröpler, R. (2023). Natural Language Processing for Requirements Formalization: How to Derive New Approaches?. In: Schlingloff, BH., Vogel, T., Skowron, A. (eds) Concurrency, Specification and Programming. Studies in Computational Intelligence, vol 1091. Springer, Cham. https://doi.org/10.1007/978-3-031-26651-5_1"
 ---
