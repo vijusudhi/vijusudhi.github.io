@@ -3,7 +3,7 @@ title: "Illuminer: Instruction-tuned large language models as few-shot intent cl
 collection: publications
 category: conferences
 permalink: /publications/2024-03-26-illuminer
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-03-26
 venue: 'Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

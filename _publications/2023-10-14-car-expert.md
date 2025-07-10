@@ -3,7 +3,7 @@ title: "CarExpert: Leveraging Large Language Models for In-Car Conversational Qu
 collection: publications
 category: conferences
 permalink: /publications/2023-10-14-car-expert
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-14
 venue: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
