@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. 👋 
-
-This is Viju Sudhi. This is how I write my name in my mother tongue Malayalam: വിജു സുധി. 
+Hi there. This is Viju Sudhi (വിജു സുധി in Malayalam). 👋
 
 I'm currently working as a Research Associate / PhD student at the [Semantic Computing Group](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/) in Bielefeld University under the supervision of [Prof. Dr. Philipp Cimiano](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/philipp-cimiano/#comp_00005f3dd926_0000002992_051a).
 
