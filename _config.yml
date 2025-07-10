@@ -80,11 +80,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   chapter:
-    title: 'Book Chapters'
+    title: '📖 Book Chapters'
   article:
-    title: 'Journal Articles'    
+    title: '✍🏻 Journal Articles'
   conference:
-    title: 'Conference Papers'
+    title: '📰 Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
