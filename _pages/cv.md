@@ -34,14 +34,26 @@ Work experience
 * *11/2016 - 03/2019:* **Senior Engineer**, Tata Elxsi Limited, Trivandrum, India
   * Maintained and updated MCAL Driver code for diverse Renesas micro-controllers in accordance with AUTOSAR standards on different communication protocols.
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[//]: # (Skills)
+
+[//]: # (======)
+
+[//]: # (* Python)
+
+[//]: # ()
+[//]: # (* GenAI)
+
+[//]: # ()
+[//]: # (* NLP)
+
+[//]: # ()
+[//]: # (* PyTorch)
+
+[//]: # ()
+[//]: # (* Sub-skill 2.3)
+
+[//]: # ()
+[//]: # (* Skill 3)
 
 Publications
 ======
