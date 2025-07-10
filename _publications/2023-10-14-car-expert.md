@@ -1,7 +1,7 @@
 ---
 title: "CarExpert: Leveraging Large Language Models for In-Car Conversational Question Answering"
 collection: publications
-category: conferences
+category: conference
 permalink: /publications/2023-10-14-car-expert
 excerpt: 'We propose CarExpert, an in-car retrieval-augmented conversational question-answering system leveraging LLMs for different tasks. Specifically, CarExpert employs LLMs to control the input, provide domain-specific documents to the extractive and generative answering components, and controls the output to ensure safe and domain-specific answers. '
 date: 2023-10-14

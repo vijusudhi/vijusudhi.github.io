@@ -1,0 +1,13 @@
+---
+title: "Natural Language Processing for Requirements Formalization: How to Derive New Approaches?"
+collection: publications
+category: chapter  # chapter, article, conference
+permalink: /publication/2023-05-05-nlp-for-req-form
+excerpt: 'We present and discuss principal ideas and state-of-the-art methodologies from the field of NLP in order to guide the readers on how to derive new requirements formalization approaches according to their specific use case and needs. We demonstrate our approaches on two industrial use cases from the automotive and railway domains and show that the use of current pre-trained NLP models requires less effort to adapt to a specific use case.'
+date: 2023-05-05
+venue: 'Concurrency, Specification and Programming: Revised Selected Papers from the 29th International Workshop on Concurrency, Specification and Programming (CS&P'21), Berlin, Germany'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-26651-5_1'
+citation: "Sudhi, V., Kutty, L., Gröpler, R. (2023). Natural Language Processing for Requirements Formalization: How to Derive New Approaches?. In: Schlingloff, BH., Vogel, T., Skowron, A. (eds) Concurrency, Specification and Programming. Studies in Computational Intelligence, vol 1091. Springer, Cham. https://doi.org/10.1007/978-3-031-26651-5_1"
+---
+
+It is a long-standing desire of industry and research to automate the software development and testing process as much as possible. Model-based design and testing methods have been developed to automate several process steps and handle the growing complexity and variability of software systems. However, major effort is still required to create specification models from a large set of functional requirements provided in natural language. Numerous approaches based on natural language processing (NLP) have been proposed in the literature to generate requirements models using mainly syntactic properties. Recent advances in NLP show that semantic quantities can also be identified and used to provide better assistance in the requirements formalization process. In this work, we present and discuss principal ideas and state-of-the-art methodologies from the field of NLP in order to guide the readers on how to derive new requirements formalization approaches according to their specific use case and needs. We demonstrate our approaches on two industrial use cases from the automotive and railway domains and show that the use of current pre-trained NLP models requires less effort to adapt to a specific use case. Furthermore, we outline findings and shortcomings of this research area and propose some promising future developments.

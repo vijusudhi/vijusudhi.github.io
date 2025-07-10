@@ -1,7 +1,7 @@
 ---
 title: "Illuminer: Instruction-tuned large language models as few-shot intent classifier and slot filler"
 collection: publications
-category: conferences
+category: conference
 permalink: /publications/2024-03-26-illuminer
 excerpt: 'Introducing ILLUMINER, an approach framing IC and SF as language generation tasks for Instruct-LLMs, with a more efficient SF-prompting method compared to prior work.'
 date: 2024-03-26
