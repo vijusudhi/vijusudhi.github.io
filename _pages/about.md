@@ -17,17 +17,19 @@ Developing a strong outlook in various areas of Natural Language Processing and 
 
 **✨ What am I currently working on?**
 
-Currently, I am working mostly on the project [LLM4KMU](https://llm4kmu.de/) - LLMs for Small and Medium-sized Enterprises. The project aims to adapt and optimize Large Language Models for their application in SMEs. As part of the project, we are building [AutoLLM](https://github.com/ag-sc/autollm), an experimentation platform which supports users in finding the right open source LLM, fine-tunes the selected models, conducts extensive post-training and evaluation runs - finally supporting the user in making a more informed decision about the models they use for their application.
+Currently, I am working mostly on the project [LLM4KMU](https://llm4kmu.de/) - LLMs for Small and Medium-sized Enterprises. 
+
+LLM4KMU aims to adapt and optimize Large Language Models for their application in SMEs. As part of the project, we are building [AutoLLM](https://github.com/ag-sc/autollm), an experimentation platform which supports users in finding the right open source LLM, fine-tunes the selected models, conducts extensive post-training and evaluation runs - finally supporting the user in making a more informed decision about the models they use for their application.
 
 In addition to the development of the platform, we are also actively researching into the following topics:
 
-**- Hallucination Detection / Mitigation** – e.g. How can inference-time / training-free decoding strategies help mitigate hallucinations?
+**Hallucination Detection / Mitigation** – e.g. How can inference-time / training-free decoding strategies help mitigate hallucinations?
 
-**- Resolving Knowledge conflicts in Language Models** – e.g. Can LMs reliably over-ride parametric knowledge when presented with conflicting in-context knowledge?
+**Resolving Knowledge conflicts in Language Models** – e.g. Can LMs reliably over-ride parametric knowledge when presented with conflicting in-context knowledge?
 
-**- Question Answering with Small Language Models** – e.g. Can SLMs perform well when trained on domain-specific QA tasks? 
+**Question Answering with Small Language Models** – e.g. Can SLMs perform well when trained on domain-specific QA tasks? 
 
-If you find common research interests, I am happy to collaborate! 😊 
+✍🏻 If you find common research interests, I am happy to collaborate! 😊 
 
 Please feel free to connect with me at [viju.sudhi@uni-bielefeld.de](mailto:viju.sudhi@uni-bielefeld.de).
 
