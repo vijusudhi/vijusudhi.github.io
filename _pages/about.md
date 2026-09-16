@@ -26,5 +26,5 @@ If you find common research interests, I am happy to collaborate! 😊
 # 🔔 Updates
 
 - **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop [UncertaiNLP 2026](https://uncertainlp.github.io/) co-located with EMNLP 2026.
-- **Sep 7, 2026** — Started as a Research Fellow at [SPAR](https://sparai.org/) Fall 2026 cohort.
+- **Sep 7, 2026** — Started as a Research Fellow at [SPAR](https://sparai.org/) Fall 2026 cohort. Will work on the project [A Diagnostic Panel of Ground-Truth Probes for Language Models](https://sparai.org/projects/f26/recX1zoRhxvqP5RD3/?utm_source=ai-advisor).
 
