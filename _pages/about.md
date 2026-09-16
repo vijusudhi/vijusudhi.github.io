@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi there. This is Viju Sudhi (വിജു സുധി in my mother tongue Malayalam). 
+👋 Hi there. This is Viju Sudhi. In my language Malayalam, I write my name as വിജു സുധി. 
 
 I'm currently working as a Research Associate / PhD student at the [Semantic Computing Group](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/) in Bielefeld University under the supervision of [Prof. Dr. Philipp Cimiano](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/philipp-cimiano/#comp_00005f3dd926_0000002992_051a).
 
@@ -25,6 +25,6 @@ If you find common research interests, I am happy to collaborate! 😊
 
 # 🔔 Updates
 
-- **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop UncertaiNLP 2026 co-located with EMNLP 2026.
-- **Sep 7, 2026** — Started as a Research Fellow at SPAR Fall 2026 cohort.
+- **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop [UncertaiNLP 2026](https://uncertainlp.github.io/) co-located with EMNLP 2026.
+- **Sep 7, 2026** — Started as a Research Fellow at [SPAR](https://sparai.org/) Fall 2026 cohort.
 
