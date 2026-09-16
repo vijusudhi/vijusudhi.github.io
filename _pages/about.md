@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi there. This is Viju Sudhi (വിജു സുധി in Malayalam). 
+👋 Hi there. This is Viju Sudhi (വിജു സുധി in my mother tongue Malayalam). 
 
 I'm currently working as a Research Associate / PhD student at the [Semantic Computing Group](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/) in Bielefeld University under the supervision of [Prof. Dr. Philipp Cimiano](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/philipp-cimiano/#comp_00005f3dd926_0000002992_051a).
 
@@ -21,7 +21,7 @@ In addition to the development of the platform, we are also actively researching
 - **Hallucination Detection / Mitigation** – e.g. How can inference-time / training-free decoding strategies help mitigate hallucinations?
 - **Resolving Knowledge conflicts in Language Models** – e.g. Can LMs reliably over-ride parametric knowledge when presented with conflicting in-context knowledge?
 
-✍🏻 If you find common research interests, I am happy to collaborate! 😊 
+If you find common research interests, I am happy to collaborate! 😊 
 
 # 🔔 Updates
 
