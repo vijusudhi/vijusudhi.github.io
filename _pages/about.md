@@ -23,8 +23,6 @@ In addition to the development of the platform, we are also actively researching
 
 ✍🏻 If you find common research interests, I am happy to collaborate! 😊 
 
-Please feel free to write to me at [viju.sudhi@uni-bielefeld.de](mailto:viju.sudhi@uni-bielefeld.de).
-
 # 🔔 Updates
 
 - **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop UncertaiNLP 2026 co-located with EMNLP 2026.
