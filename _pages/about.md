@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,10 +11,10 @@ redirect_from:
 
 I'm currently working as a Research Associate / PhD student at the [Semantic Computing Group](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/) in Bielefeld University under the supervision of [Prof. Dr. Philipp Cimiano](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/philipp-cimiano/#comp_00005f3dd926_0000002992_051a).
 
-**🧑‍💻 A bit about myself**
+# 🧑‍💻 A bit about myself
 Developing a strong outlook in various areas of Natural Language Processing and Generation. Experienced in building and evaluating Generative Dialog Systems, fine-tuning Large Language Models and Retriever models.
 
-**✨ What am I currently working on?**
+# ✨ What am I currently working on?
 Currently, I am working mostly on the project [LLM4KMU](https://llm4kmu.de/) - LLMs for Small and Medium-sized Enterprises. 
 LLM4KMU aims to adapt and optimize Large Language Models for their application in SMEs. As part of the project, we are building [AutoLLM](https://github.com/ag-sc/autollm), an experimentation platform which supports users in finding the right open source LLM, fine-tunes the selected models, conducts extensive post-training and evaluation runs - finally supporting the user in making a more informed decision about the models they use for their application.
 
@@ -25,7 +25,7 @@ In addition to the development of the platform, we are also actively researching
 ✍🏻 If you find common research interests, I am happy to collaborate! 😊 
 Please feel free to connect with me at [viju.sudhi@uni-bielefeld.de](mailto:viju.sudhi@uni-bielefeld.de).
 
-**🔔 Updates**
+# 🔔 Updates
 
 - **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop UncertaiNLP 2026 co-located with EMNLP 2026.
 - **Sep 7, 2026** — Started as a Research Fellow at SPAR Fall 2026 cohort.
