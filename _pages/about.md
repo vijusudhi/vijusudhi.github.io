@@ -27,6 +27,6 @@ Please feel free to connect with me at [viju.sudhi@uni-bielefeld.de](mailto:viju
 
 **🔔 Updates**
 
-- Sep 14, 2026 — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop UncertaiNLP 2026 co-located with EMNLP 2026.
-- Sep 7, 2026 — Started as a Research Fellow at SPAR Fall 2026 cohort.
+- **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop UncertaiNLP 2026 co-located with EMNLP 2026.
+- **Sep 7, 2026** — Started as a Research Fellow at SPAR Fall 2026 cohort.
 
