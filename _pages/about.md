@@ -27,12 +27,14 @@ In addition to the development of the platform, we are also actively researching
 
 **Resolving Knowledge conflicts in Language Models** – e.g. Can LMs reliably over-ride parametric knowledge when presented with conflicting in-context knowledge?
 
-**Question Answering with Small Language Models** – e.g. Can SLMs perform well when trained on domain-specific QA tasks? 
-
 ✍🏻 If you find common research interests, I am happy to collaborate! 😊 
 
 Please feel free to connect with me at [viju.sudhi@uni-bielefeld.de](mailto:viju.sudhi@uni-bielefeld.de).
 
-**🎧 What am I listening to (now)?**
+**🔔 Updates**
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1jYx1g0BXEqvr9bpZoDMS7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- Sep 17, 2026 — Recently contributing to research and development around trustworthy and practical LLM applications for SMEs.
+- Sep 10, 2026 — Exploring effective strategies for hallucination mitigation, knowledge conflict resolution, and domain-specific QA.
+- Sep 1, 2026 — Building and evaluating open-source model workflows to make model selection and adaptation more transparent for real-world use cases.
+
+
