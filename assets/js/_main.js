@@ -2,47 +2,35 @@
    Various functions that we want to use within the template
    ========================================================================== */
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// Determine the expected state of the theme toggle. The site is intentionally kept in
+// light mode only, so any unset value falls back to "light".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
+  return (themeSetting != "light") ? "light" : themeSetting;
 };
 
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
-// "system", the computed theme is determined based on the user's system preference.
+// The site does not support a dark theme; the computed theme is always light.
 let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting != "system") {
-    return themeSetting;
-  }
-  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  return "light";
 };
 
 // detect OS/browser preference
-const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+const browserPref = 'light';
 
-// Set the theme on page load or when explicitly called
+// Set the theme on page load or when explicitly called.
 let setTheme = (theme) => {
-  const use_theme =
-    theme ||
-    localStorage.getItem("theme") ||
-    $("html").attr("data-theme") ||
-    browserPref;
+  const use_theme = theme || localStorage.getItem("theme") || $("html").attr("data-theme") || browserPref;
 
-  if (use_theme === "dark") {
-    $("html").attr("data-theme", "dark");
-    $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-  } else if (use_theme === "light") {
+  if (use_theme === "light") {
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+    localStorage.setItem("theme", "light");
   }
 };
 
-// Toggle the theme manually
+// The theme toggle is not used in light-only mode.
 var toggleTheme = () => {
-  const current_theme = $("html").attr("data-theme");
-  const new_theme = current_theme === "dark" ? "light" : "dark";
+  const new_theme = "light";
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
 };
@@ -90,19 +78,11 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
-  // Default to dark mode unless the user has already chosen a theme
+  // Default to light mode; no dark theme is supported.
   if (!localStorage.getItem("theme")) {
-    localStorage.setItem("theme", "dark");
+    localStorage.setItem("theme", "light");
   }
-  setTheme("dark");
-
-  // Keep the site dark by default even if the OS preference changes
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
+  setTheme("light");
 
   // Enable the sticky footer
   var bumpIt = function () {
