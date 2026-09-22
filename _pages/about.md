@@ -7,16 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi there. This is Viju Sudhi. In my language Malayalam, I write my name as വിജു സുധി. 
-
-### Contact
+<!-- ### Contact
 - **Location:** Bielefeld, Germany
 - **Email:** [viju.sudhi@uni-bielfeld.de](mailto:viju.sudhi@uni-bielfeld.de)
 - **LinkedIn:** [viju-sudhi](https://www.linkedin.com/in/viju-sudhi)
 - **GitHub:** [vijusudhi](https://github.com/vijusudhi)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=JNymskMAAAAJ&hl=en)
 - **ORCID:** [0009-0009-0325-7526](http://orcid.org/0009-0009-0325-7526)
-- **ResearchGate:** [Viju Sudhi](https://www.researchgate.net/profile/Viju-Sudhi?ev=hdr_xprf)
+- **ResearchGate:** [Viju Sudhi](https://www.researchgate.net/profile/Viju-Sudhi?ev=hdr_xprf) -->
+
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/viju-sudhi)
+[![Email](https://shields.io)](mailto:viju.sudhi@uni-bielfeld.de)
+[![GitHub](https://shields.io)](https://github.com/vijusudhi)
+[![Twitter](https://shields.io)](https://twitter.com)
+
 
 I'm a Research Associate / PhD student at the [Semantic Computing Group](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/) in Bielefeld University under the supervision of [Prof. Dr. Philipp Cimiano](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/philipp-cimiano/#comp_00005f3dd926_0000002992_051a).
 
