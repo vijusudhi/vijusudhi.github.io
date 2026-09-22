@@ -15,6 +15,20 @@ redirect_from:
   <a href="http://orcid.org/0009-0009-0325-7526"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://www.researchgate.net/profile/Viju-Sudhi?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 </p>
+
+<blockquote style="
+  background: rgba(27, 31, 35, 0.05); 
+  border-left: 4px solid #2ea44f; 
+  padding: 12px 20px; 
+  margin: 20px 0; 
+  border-radius: 0 6px 6px 0;
+">
+  <p style="margin: 0; font-size: 1rem; color: #24292e;">
+    <em>"I suspect the truth is that we are waiting, all of us, against insurmountable odds, for something extraordinary to happen to us."</em>
+  </p>
+  <small style="display: block; margin-top: 8px; color: #6a737d;">— Khaled Hosseini </small>
+</blockquote>
+
 I'm a Research Associate / PhD student at the [Semantic Computing Group](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/) in Bielefeld University under the supervision of [Prof. Dr. Philipp Cimiano](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/philipp-cimiano/#comp_00005f3dd926_0000002992_051a).
 
 I am currently working on the project [LLM4KMU](https://llm4kmu.de/) - LLMs for Small and Medium-sized Enterprises. LLM4KMU aims to adapt and optimize Large Language Models for their application in SMEs. As part of the project, we are building [AutoLLM](https://github.com/ag-sc/autollm), an experimentation platform which supports users in finding the right open source LLM, fine-tunes the selected models, conducts extensive post-training and evaluation runs - finally supporting the user in making a more informed decision about the models they use for their application.
