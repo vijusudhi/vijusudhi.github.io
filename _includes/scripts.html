@@ -1,3 +1,18 @@
+<script>
+  try {
+    localStorage.setItem('theme', 'light');
+  } catch (e) {}
+  const originalMatchMedia = window.matchMedia;
+  window.matchMedia = function (query) {
+    const base = originalMatchMedia ? originalMatchMedia.call(window, query) : { matches: false, media: query, addEventListener: function () {}, removeEventListener: function () {} };
+    if (query && query.indexOf('prefers-color-scheme: dark') !== -1) {
+      return Object.assign({}, base, { matches: false });
+    }
+    return base;
+  };
+  document.documentElement.style.colorScheme = 'light';
+  document.documentElement.removeAttribute('data-theme');
+</script>
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
