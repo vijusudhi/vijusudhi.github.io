@@ -41,6 +41,7 @@ If you find common research interests, I am happy to collaborate! 😊
 
 # 🔔 Updates
 
+- **Sep 23, 2026** — Our paper "Tug of Watts: A study on the Energy - Accuracy Trade-off of Large Language Models on Medical Question Answering Tasks" has been accepted to the workshop [GREEN-AI 2026](https://sites.google.com/uniroma1.it/green-ai-workshop/editions/cikm-2026) co-located with CIKM 2026.
 - **Sep 14, 2026** — Our paper "AttentionCD: Reducing Factuality Hallucinations in Large Language Models using Task-specific Head-based Contrastive Decoding" has been accepted to the workshop [UncertaiNLP 2026](https://uncertainlp.github.io/) co-located with EMNLP 2026.
 - **Sep 7, 2026** — Started as a Research Fellow at [SPAR](https://sparai.org/) Fall 2026 cohort. Will work on the project [A Diagnostic Panel of Ground-Truth Probes for Language Models](https://sparai.org/projects/f26/recX1zoRhxvqP5RD3/?utm_source=ai-advisor).
 
